@@ -1,0 +1,4 @@
+���      �neat.genome��
+DefaultGenome���)��}�(�key�Kx�connections�}�(J����K ���
+neat.genes��DefaultConnectionGene���)��}�(hh�weight�G?��!�܌enabled��ubJ����K ��h)��}�(hhhG��RDZzE�h�ubJ����K��h)��}�(hhhG?���SE�h�ubKK ��h)��}�(hhhG?�����YKh�ubu�nodes�}�(K h	�DefaultNodeGene���)��}�(hK �bias�G��mb/�ܞ�response�G?�      �
+activation��tanh��aggregation��sum�ubKh)��}�(hKhG?�$��4�h G?�      h!h"h#h$ubu�fitness�G@h33332�ub.
